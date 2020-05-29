@@ -1,7 +1,7 @@
 import * as core from '@actions/core';
 import * as exec from '@actions/exec';
 
-const BUILD_TOOLS_VERSION = '29.0.3';
+const BUILD_TOOLS_VERSION = '30.0.0-rc4';
 const CMDLINE_TOOLS_URL_MAC = 'https://dl.google.com/android/repository/commandlinetools-mac-6200805_latest.zip';
 const CMDLINE_TOOLS_URL_LINUX = 'https://dl.google.com/android/repository/commandlinetools-linux-6200805_latest.zip';
 
